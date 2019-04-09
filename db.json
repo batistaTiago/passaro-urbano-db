@@ -2,7 +2,7 @@
   "ofertas": [
     {
       "id": 1,
-      "categoria": "restaurante",
+      "categoria": "restaurantes",
       "titulo": "Super Burger",
       "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
       "anunciante": "Original Burger",
@@ -25,7 +25,7 @@
     },
     {
       "id": 2,
-      "categoria": "restaurante",
+      "categoria": "restaurantes",
       "titulo": "Cozinha Mexicana",
       "descricao_oferta": "Almoço ou Jantar com Rodízio Mexicano delicioso.",
       "anunciante": "Mexicana",
@@ -48,7 +48,7 @@
     },
     {
       "id": 3,
-      "categoria": "restaurante",
+      "categoria": "restaurantes",
       "titulo": "Pizzas Grandes",
       "descricao_oferta": "Pizza Grande, Mussarela, Marguerita ou outras!",
       "anunciante": "Nossa Pizza",
