@@ -152,10 +152,10 @@
 		{
 			"id": 7,
 			"categoria": "festas",
-			"titulo": "Academia de tiro",
-			"descricao_oferta": "Sessão de tiro dinâmico com Instrutor, Estande, Alvo e Equipamentos.",
-			"anunciante": "Academia de Tiro",
-			"valor": 89.9,
+			"titulo": "Rock in Rio",
+			"descricao_oferta": "Maior festival de rock do Brasil e um dos maiores do mundo.",
+			"anunciante": "RiR Produções",
+			"valor": 579.9,
 			"destaque": false,
 			"imagens": [
 				{
@@ -163,16 +163,28 @@
 				},
 				{
 					"url": "/assets/ofertas/7/img2.jpg"
+				},
+				{
+					"url": "/assets/ofertas/7/img3.jpg"
+				},
+				{
+					"url": "/assets/ofertas/7/img4.jpg"
+				},
+								{
+					"url": "/assets/ofertas/7/img5.jpg"
+				},
+								{
+					"url": "/assets/ofertas/7/img6.jpg"
 				}
 			]
 		},
 		{
 			"id": 8,
 			"categoria": "festas",
-			"titulo": "Academia de tiro",
-			"descricao_oferta": "Sessão de tiro dinâmico com Instrutor, Estande, Alvo e Equipamentos.",
-			"anunciante": "Academia de Tiro",
-			"valor": 89.9,
+			"titulo": "Boate Villa Mix",
+			"descricao_oferta": "Boate mais badalada da noite de São Paulo.",
+			"anunciante": "VM Empreendimentos",
+			"valor": 289.9,
 			"destaque": false,
 			"imagens": [
 				{
@@ -180,16 +192,22 @@
 				},
 				{
 					"url": "/assets/ofertas/8/img2.jpg"
+				},
+				{
+					"url": "/assets/ofertas/8/img3.jpg"
+				},
+				{
+					"url": "/assets/ofertas/8/img4.jpg"
 				}
 			]
 		},
 		{
 			"id": 9,
 			"categoria": "festas",
-			"titulo": "Academia de tiro",
-			"descricao_oferta": "Sessão de tiro dinâmico com Instrutor, Estande, Alvo e Equipamentos.",
-			"anunciante": "Academia de Tiro",
-			"valor": 89.9,
+			"titulo": "Bruno & Marrone",
+			"descricao_oferta": "Show da consagrada dupla sertaneja Bruno & Marrone",
+			"anunciante": "Alex Padang",
+			"valor": 64.9,
 			"destaque": false,
 			"imagens": [
 				{
@@ -197,6 +215,12 @@
 				},
 				{
 					"url": "/assets/ofertas/9/img2.jpg"
+				},
+				{
+					"url": "/assets/ofertas/9/img3.jpg"
+				},
+				{
+					"url": "/assets/ofertas/9/img4.jpg"
 				}
 			]
 		}
